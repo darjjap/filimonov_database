@@ -1,0 +1,24 @@
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\MSTest Test Project.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\MSTest Test Project.pdb
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\project.fil.exe
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\project.fil.pdb
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\project.fil.exe.config
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\obj\Debug\MSTest Test Project.csproj.AssemblyReference.cache
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\obj\Debug\MSTest Test Project.csproj.CoreCompileInputs.cache
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\obj\Debug\MSTest T.4F6B3040.Up2Date
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\obj\Debug\MSTest Test Project.dll
+C:\Users\darja\Downloads\filimonov\project.fil\MSTest Test Project\obj\Debug\MSTest Test Project.pdb

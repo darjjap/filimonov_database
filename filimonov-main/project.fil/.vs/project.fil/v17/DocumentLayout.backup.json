@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\pages\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\pages\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\pages\\signinpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\pages\\signinpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\pages\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\pages\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\classes\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\classes\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323BDBD2-6988-4A32-A38C-B1D715562B81}|MSTest Test Project\\MSTest Test Project.csproj|d:\\downloads\\filimonov-main\\filimonov-main\\project.fil\\mstest test project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323BDBD2-6988-4A32-A38C-B1D715562B81}|MSTest Test Project\\MSTest Test Project.csproj|solutionrelative:mstest test project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\App.xaml",
+              "RelativeDocumentMoniker": "project.fil\\App.xaml",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\App.xaml",
+              "RelativeToolTip": "project.fil\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T05:14:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignInPage.xaml.cs",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\SignInPage.xaml.cs",
+              "RelativeDocumentMoniker": "project.fil\\Pages\\SignInPage.xaml.cs",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\SignInPage.xaml.cs",
+              "RelativeToolTip": "project.fil\\Pages\\SignInPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:59:53.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInPage.xaml",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\SignInPage.xaml",
+              "RelativeDocumentMoniker": "project.fil\\Pages\\SignInPage.xaml",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\SignInPage.xaml",
+              "RelativeToolTip": "project.fil\\Pages\\SignInPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T04:56:21.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "project.fil\\Pages\\WelcomePage.xaml",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\WelcomePage.xaml",
+              "RelativeToolTip": "project.fil\\Pages\\WelcomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T04:56:42.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "project.fil\\Pages\\AdminPage.xaml",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "project.fil\\Pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T04:56:00.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Classes\\AppData.cs",
+              "RelativeDocumentMoniker": "project.fil\\Classes\\AppData.cs",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Classes\\AppData.cs",
+              "RelativeToolTip": "project.fil\\Classes\\AppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:52:55.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "project.fil\\MainWindow.xaml",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\MainWindow.xaml",
+              "RelativeToolTip": "project.fil\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T17:33:09.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "project.fil\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\MainWindow.xaml.cs",
+              "RelativeToolTip": "project.fil\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:33:08.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "project.fil\\Models\\Model1.edmx",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\project.fil\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "project.fil\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-21T04:48:58.624Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\MSTest Test Project\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTest Test Project\\UnitTest1.cs",
+              "ToolTip": "D:\\Downloads\\filimonov-main\\filimonov-main\\project.fil\\MSTest Test Project\\UnitTest1.cs",
+              "RelativeToolTip": "MSTest Test Project\\UnitTest1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:57:48.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\bin\Debug\project.fil.exe.config
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\bin\Debug\project.fil.exe
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\bin\Debug\project.fil.pdb
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil.csproj.AssemblyReference.cache
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\MainWindow.g.cs
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\App.g.cs
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.cache
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.lref
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\MainWindow.baml
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil.g.resources
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil.csproj.CoreCompileInputs.cache
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil.exe
+C:\Users\darja\OneDrive\Рабочий стол\учеба прости господи\filimonov\project.fil\project.fil\obj\Debug\project.fil.pdb
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\bin\Debug\project.fil.exe.config
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\bin\Debug\project.fil.exe
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\bin\Debug\project.fil.pdb
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.csproj.AssemblyReference.cache
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\MainWindow.g.cs
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\App.g.cs
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.cache
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.lref
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\MainWindow.baml
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.g.resources
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.csproj.CoreCompileInputs.cache
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.exe
+C:\Users\pl1295\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.pdb
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\bin\Debug\project.fil.exe.config
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\bin\Debug\project.fil.exe
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\bin\Debug\project.fil.pdb
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.csproj.AssemblyReference.cache
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\MainWindow.g.cs
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\App.g.cs
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.cache
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.lref
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\MainWindow.baml
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.g.resources
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.csproj.CoreCompileInputs.cache
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.exe
+C:\Users\darja\Downloads\filimonov\project.fil\project.fil\obj\Debug\project.fil.pdb
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil.csproj.AssemblyReference.cache
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil.exe.config
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\MainWindow.g.cs
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\Pages\AdminPage.g.cs
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\Pages\SignInPage.g.cs
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\Pages\WelcomePage.g.cs
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\App.g.cs
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil_Content.g.cs
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.cache
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil_MarkupCompile.lref
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil.exe
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil.pdb
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\bin\Debug\project.fil.exe.config
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\bin\Debug\project.fil.exe
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\bin\Debug\project.fil.pdb
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\bin\Debug\EntityFramework.dll
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\bin\Debug\EntityFramework.xml
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\bin\Debug\ru\EntityFramework.resources.dll
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\MainWindow.baml
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\Pages\AdminPage.baml
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\Pages\SignInPage.baml
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\Pages\WelcomePage.baml
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil.g.resources
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project.fil.csproj.CoreCompileInputs.cache
+D:\Downloads\filimonov-main\filimonov-main\project.fil\project.fil\obj\Debug\project..DA7F43F4.Up2Date
